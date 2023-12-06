@@ -1,4 +1,3 @@
-import tiktoken 
-
+import tiktoken
 
 print(tiktoken)
